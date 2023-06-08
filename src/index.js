@@ -1,0 +1,12 @@
+import "./styles/style.css";
+
+const dropDownMenu = () => {
+    const menuToggle = document.querySelector(".menu-toggle");
+    const menuContainer = document.querySelector(".menu-container");
+
+    menuToggle.addEventListener("click", () => {
+        menuContainer.classList.toggle("show-menu");
+    });
+};
+
+export default dropDownMenu;
