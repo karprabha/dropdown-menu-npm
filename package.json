@@ -1,6 +1,6 @@
 {
     "name": "@karprabha/dropdown-menu",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "dropdown-menu",
     "main": "dist/dropdown-menu.js",
     "scripts": {
